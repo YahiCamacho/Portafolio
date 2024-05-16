@@ -1,0 +1,11 @@
+.formcontato{
+    padding: 2rem;
+
+}
+
+.formcontato__contacto{
+    display: flex;
+    gap: 1rem; 
+    padding-top: 2rem;
+    
+}
